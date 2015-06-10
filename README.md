@@ -1,7 +1,7 @@
 
 ## iOSPermissionCheck ##
 
-Various parts of permissions checking code scattered in the project. So I create a separate class to manage. 
+Various parts of permissions checking code scattered in the project. So I create a separate class to manage. Currently only photos, camera, microphone permissions check, I will continue to add all permissions checks.
 
 ## Usage ##
 
